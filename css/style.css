@@ -41,6 +41,7 @@ body {
     position: relative !important;
     background: #666;
     cursor:pointer;
+    text-align: center;
 }
 .portfolio img {
     max-width:100%;
